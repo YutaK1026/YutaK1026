@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C++, Python(Deep Learning, Backend), TypeScript, SQL, Azure and so on.**
 
-- 👨‍💻 All of my projects are available at [https://kawachann.com/works](https://kawachann.com/works)
+- 👨‍💻 All of my projects are available at [https://kawachann.com/product](https://kawachann.com/product)
 
 - 📝 I regularly write articles on [https://kawachann.com](https://kawachann.com)
 
