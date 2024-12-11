@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **TypeScript, Python(Deep Learning, Backend), SQL and so on.**
 
-- 👨‍💻 All of my projects are available at [https://kawachann.com/product](https://kawachann.com/product)
+- 👨‍💻 All of my projects are available at [https://kawachann.com/product](https://kawaport.pages.dev/product)
 
-- 📝 I regularly write articles on [https://kawachann.com](https://kawachann.com)
+- 📝 I regularly write articles on [https://kawachann.com](https://kawaport.pages.dev)
 
 - 📫 How to reach me **inheritans1026@gmail.com**
 
