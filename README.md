@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Yuta</h1>
-<h3 align="center">A Student from Infomatics</h3>
+<h1 align="center">Hi 👋, I'm Yuta Kawamura</h1>
+<h3 align="center">A Student from Infomatics. Nagoya University</h3>
 
-- 🌱 I’m currently learning **TypeScript, Python(Deep Learning, Backend), SQL and so on.**
+- 🌱 I’m currently learning **ML, TypeScript, Python(Deep Learning, Backend), SQL and so on.**
 
-- 👨‍💻 All of my projects are available at https://kawaport.pages.dev/product
+- 👨‍💻 All of my products are available at [product](https://kawaport.pages.dev/product)
 
 - 📝 I regularly write articles on [ポートフォリオ](https://kawaport.pages.dev)
 
