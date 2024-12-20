@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my products are available at [product](https://kawaport.pages.dev/product)
 
-- 📝 I regularly write articles on [ポートフォリオ](https://kawaport.pages.dev)
+- 📝 I regularly write articles on [my portfolio](https://kawaport.pages.dev)
 
 - 📫 How to reach me **inheritans1026@gmail.com**
 
