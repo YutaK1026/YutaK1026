@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Deep Learning, System Architecture, and so on.**
   
-- ♥️ I like to create **Web Application, Deep Learning Model.**
+- ♥️ I like to create **Web Application and Deep Learning Model.**
 
-- 👍 I familiar with **Python, TypeScript, SQL.**
+- 👍 I familiar with **Python and TypeScript.**
 
 - 👨‍💻 All of my products are available at [product](https://kawaport.pages.dev/product)
 
