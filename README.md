@@ -7,6 +7,8 @@
 
 - 👍 I familiar with **Python and TypeScript.**
 
+- 🧪 I currently research topic is **Estimation lymph node map with create Segmentation Model**.
+
 - 👨‍💻 All of my products are available at [product](https://kawaport.pages.dev/product)
 
 - 📝 I regularly write articles on [my portfolio](https://kawaport.pages.dev)
